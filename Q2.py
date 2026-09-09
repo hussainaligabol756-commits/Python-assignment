@@ -1,4 +1,3 @@
-question2:
 hours=int(input("Enter your hours worked"));
 rate=int(input("Enter your horly rate"));
 Gross_pay=hours * rate;
